@@ -194,7 +194,7 @@ Trabalhos publicados em anais de congressos científicos — **XIV e XIII ENCIBR
 
 <div align="center">
 
-📍 Mogi das Cruzes, SP — Brasil &nbsp;·&nbsp; 💼 Disponível para consultorias
+📍 SP — Brasil &nbsp;·&nbsp; 💼 Disponível para consultorias
 
 <br/>
 
