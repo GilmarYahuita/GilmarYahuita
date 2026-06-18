@@ -22,11 +22,11 @@
 
 Profissional de tecnologia com **mais de 10 anos de experiência**, atuando em três frentes simultâneas:
 
-- 🏢 **Coordenador de TI Sênior** na [SWINT — Inteligência & Investigação Corporativa](https://swint.com.br) — liderando infraestrutura, sistemas e equipe de TI desde 2018
+- 🏢 **Coordenador de TI Sênior** na [ODEEN — Inteligência & Investigação Corporativa](https://odeen.com.br) — liderando infraestrutura, sistemas e equipe de TI desde 2018
 - 🎓 **Professor Universitário** no [Centro Universitário Braz Cubas](https://www.brazcubas.edu.br) — lecionando ADS, Sistemas de Informação e Ciência da Computação desde 2023
 - 🚀 **CEO & Fundador** da **Reactor Systems** — consultoria de TI, desenvolvimento de software e hardware
 
-> *"Da sala de aula ao servidor, do circuito eletrônico ao código — tecnologia é minha linguagem."*
+> *"Da sala de aula ao servidor, do circuito eletrônico ao código, tecnologia é minha linguagem."*
 
 ---
 
