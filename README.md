@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilmar-alexandre-6061251bb)
 [![Lattes](https://img.shields.io/badge/Lattes-003087?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5841307800927518)
-[![Portfolio](https://img.shields.io/badge/Portfólio-238636?style=for-the-badge&logo=github&logoColor=white)](https://GilmarYahuita.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfólio-238636?style=for-the-badge&logo=github&logoColor=white)](https://gilmar.yahuita.com.br)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilmaralexandreprado@gmail.com)
 
 </div>
